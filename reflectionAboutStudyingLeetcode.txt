@@ -1,0 +1,10 @@
+When I was studying for Amazon OA, I tried to finish "Top 50 Amazon Questions" problem set in a week(I have done maybe about 7 before). I did 42/50 at the end because some problems like 2281. Sum of Total Strength of Wizards are extremly hard for me to understand the approach and I don't think I understand the approach rn tbh. Therefore it's not very productive so there must be something wrong with my study plan and I need to make some change. Hopefully these changes I made maybe helpful.
+
+1. Quality more than quantity!
+Instead of doing as many problems as possible, spending more time on each problem and write down the thinking process of each algorithm and some problems I also need to do them again!
+
+2. Choose appropriate difficulty level
+Instead of doing hardest problems from coding interview, focus on medium and harder problems first.
+
+3. Right mindset
+Getting a job is a long-term goal and the good thing is I still have some time since I'm junior and I have done about 220 LC so far. If I can't one for next summer, just keep practing and I believe I'll be great next year!
